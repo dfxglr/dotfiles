@@ -1,9 +1,0 @@
-alias cz='chezmoi'
-alias czadd='chezmoi add'        # start tracking a file
-alias czedit='chezmoi edit'       # edit a tracked file (decrypts, applies, pushes)
-alias czre-add='chezmoi re-add'     # pick up changes you made directly to the real files
-alias czupdate='chezmoi update'     # pull from GitHub and apply
-alias czdiff='chezmoi diff'       # what would change on apply
-alias czstatus='chezmoi status'
-alias czmanaged='chezmoi managed'    # list tracked files
-alias czcd='chezmoi cd'        # jump into the source repo
